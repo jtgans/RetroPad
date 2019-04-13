@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/jtgans/Projects/RetroPad/RetroPad.sch</source>
+    <date>Saturday, April 13, 2019 at 05:04:26 AM</date>
+    <tool>Eeschema (5.0.1-3-g963ef8bb5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>RetroPad</title>
+        <company/>
+        <rev>1.0</rev>
+        <date/>
+        <source>RetroPad.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>DB9_Female</value>
+      <footprint>Connector_Dsub:DSUB-9_Female_Vertical_P2.77x2.84mm</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="DB9_Female" description="9-pin female D-SUB connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C905E81</tstamp>
+    </comp>
+    <comp ref="S5">
+      <value>UP</value>
+      <footprint>digikey-footprints:Switch_Tactile_THT_B3F-1xxx</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</datasheet>
+      <fields>
+        <field name="Category">Switches</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/B3F-1000/SW400-ND/33150</field>
+        <field name="Description">SWITCH TACTILE SPST-NO 0.05A 24V</field>
+        <field name="Digi-Key_PN">SW400-ND</field>
+        <field name="Family">Tactile Switches</field>
+        <field name="MPN">B3F-1000</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Tactile-Switches" part="B3F-1000" description="SWITCH TACTILE SPST-NO 0.05A 24V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C909C22</tstamp>
+    </comp>
+    <comp ref="S2">
+      <value>DOWN</value>
+      <footprint>digikey-footprints:Switch_Tactile_THT_B3F-1xxx</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</datasheet>
+      <fields>
+        <field name="Category">Switches</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/B3F-1000/SW400-ND/33150</field>
+        <field name="Description">SWITCH TACTILE SPST-NO 0.05A 24V</field>
+        <field name="Digi-Key_PN">SW400-ND</field>
+        <field name="Family">Tactile Switches</field>
+        <field name="MPN">B3F-1000</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Tactile-Switches" part="B3F-1000" description="SWITCH TACTILE SPST-NO 0.05A 24V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C909EAC</tstamp>
+    </comp>
+    <comp ref="S3">
+      <value>LEFT</value>
+      <footprint>digikey-footprints:Switch_Tactile_THT_B3F-1xxx</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</datasheet>
+      <fields>
+        <field name="Category">Switches</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/B3F-1000/SW400-ND/33150</field>
+        <field name="Description">SWITCH TACTILE SPST-NO 0.05A 24V</field>
+        <field name="Digi-Key_PN">SW400-ND</field>
+        <field name="Family">Tactile Switches</field>
+        <field name="MPN">B3F-1000</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Tactile-Switches" part="B3F-1000" description="SWITCH TACTILE SPST-NO 0.05A 24V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C909EFC</tstamp>
+    </comp>
+    <comp ref="S4">
+      <value>RIGHT</value>
+      <footprint>digikey-footprints:Switch_Tactile_THT_B3F-1xxx</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</datasheet>
+      <fields>
+        <field name="Category">Switches</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/B3F-1000/SW400-ND/33150</field>
+        <field name="Description">SWITCH TACTILE SPST-NO 0.05A 24V</field>
+        <field name="Digi-Key_PN">SW400-ND</field>
+        <field name="Family">Tactile Switches</field>
+        <field name="MPN">B3F-1000</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Tactile-Switches" part="B3F-1000" description="SWITCH TACTILE SPST-NO 0.05A 24V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C909FB5</tstamp>
+    </comp>
+    <comp ref="S1">
+      <value>FIRE</value>
+      <footprint>digikey-footprints:Switch_Tactile_THT_B3F-1xxx</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</datasheet>
+      <fields>
+        <field name="Category">Switches</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/B3F-1000/SW400-ND/33150</field>
+        <field name="Description">SWITCH TACTILE SPST-NO 0.05A 24V</field>
+        <field name="Digi-Key_PN">SW400-ND</field>
+        <field name="Family">Tactile Switches</field>
+        <field name="MPN">B3F-1000</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Tactile-Switches" part="B3F-1000" description="SWITCH TACTILE SPST-NO 0.05A 24V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C90A063</tstamp>
+    </comp>
+    <comp ref="S7">
+      <value>JUMP</value>
+      <footprint>digikey-footprints:Switch_Tactile_THT_B3F-1xxx</footprint>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</datasheet>
+      <fields>
+        <field name="Category">Switches</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/B3F-1000/SW400-ND/33150</field>
+        <field name="Description">SWITCH TACTILE SPST-NO 0.05A 24V</field>
+        <field name="Digi-Key_PN">SW400-ND</field>
+        <field name="Family">Tactile Switches</field>
+        <field name="MPN">B3F-1000</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Tactile-Switches" part="B3F-1000" description="SWITCH TACTILE SPST-NO 0.05A 24V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C90A140</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="DB9_Female">
+      <description>9-pin female D-SUB connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>DSUB*Female*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DB9_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_Tactile-Switches" part="B3F-1000">
+      <description>SWITCH TACTILE SPST-NO 0.05A 24V</description>
+      <docs>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">B3F-1000</field>
+        <field name="Footprint">digikey-footprints:Switch_Tactile_THT_B3F-1xxx</field>
+        <field name="Datasheet">https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</field>
+        <field name="Digi-Key_PN">SW400-ND</field>
+        <field name="MPN">B3F-1000</field>
+        <field name="Category">Switches</field>
+        <field name="Family">Tactile Switches</field>
+        <field name="DK_Datasheet_Link">https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/omron-electronics-inc-emc-div/B3F-1000/SW400-ND/33150</field>
+        <field name="Description">SWITCH TACTILE SPST-NO 0.05A 24V</field>
+        <field name="Manufacturer">Omron Electronics Inc-EMC Div</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Library/Application Support/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="dk_Tactile-Switches">
+      <uri>/Users/jtgans/Library/Application Support/kicad/Library/digikey-kicad-library/digikey-symbols/dk_Tactile-Switches.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/UP">
+      <node ref="J1" pin="1"/>
+      <node ref="S7" pin="4"/>
+      <node ref="S7" pin="3"/>
+      <node ref="S5" pin="4"/>
+      <node ref="S5" pin="3"/>
+    </net>
+    <net code="2" name="/DOWN">
+      <node ref="J1" pin="2"/>
+      <node ref="S2" pin="4"/>
+      <node ref="S2" pin="3"/>
+    </net>
+    <net code="3" name="/LEFT">
+      <node ref="J1" pin="3"/>
+      <node ref="S3" pin="3"/>
+      <node ref="S3" pin="4"/>
+    </net>
+    <net code="4" name="/RIGHT">
+      <node ref="J1" pin="4"/>
+      <node ref="S4" pin="3"/>
+      <node ref="S4" pin="4"/>
+    </net>
+    <net code="5" name="/FIRE">
+      <node ref="S1" pin="4"/>
+      <node ref="S1" pin="3"/>
+      <node ref="J1" pin="6"/>
+    </net>
+    <net code="6" name="/5V">
+      <node ref="J1" pin="7"/>
+    </net>
+    <net code="7" name="/GND">
+      <node ref="S7" pin="2"/>
+      <node ref="S7" pin="1"/>
+      <node ref="S1" pin="2"/>
+      <node ref="S1" pin="1"/>
+      <node ref="S4" pin="2"/>
+      <node ref="S4" pin="1"/>
+      <node ref="S3" pin="2"/>
+      <node ref="S3" pin="1"/>
+      <node ref="S2" pin="2"/>
+      <node ref="J1" pin="8"/>
+      <node ref="S2" pin="1"/>
+      <node ref="S5" pin="1"/>
+      <node ref="S5" pin="2"/>
+    </net>
+    <net code="8" name="/POTX">
+      <node ref="J1" pin="9"/>
+    </net>
+    <net code="9" name="/POTY">
+      <node ref="J1" pin="5"/>
+    </net>
+  </nets>
+</export>
