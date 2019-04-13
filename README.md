@@ -61,10 +61,10 @@ The original PCB is available [here](oshpark)
 
 ## How should I fab the case?
 
-The author used her Prusa i3 Mk3s FDM 3D printer with a 0.2mm layer height to
-print out the case. The model requires a high degree of precision in the
-printer, with a 0.1mm tolerance between the fire and jump buttons and the top
-half of the shell. The D-Pad area requires at least 0.5mm tolerance. You may
+The author used her Prusa i3 Mk3s FDM 3D printer with a 0.2mm layer height and
+no support to print out the case. The model requires a high degree of precision
+in the printer, with a 0.1mm tolerance between the fire and jump buttons and the
+top half of the shell. The D-Pad area requires at least 0.5mm tolerance. You may
 have to file the parts down a small amount, depending on the resolution and
 precision of your printer.
 
