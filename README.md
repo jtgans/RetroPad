@@ -1,5 +1,7 @@
 # RetroPad v1.1
 
+![RetroPad Mechanical Model](https://github.com/jtgans/RetroPad/raw/master/assets/retropad.png)
+
 ## What is this?
 
 This is an open source Commodore compatible gamepad similar in design to a
@@ -28,6 +30,10 @@ cross-compatible with any other platform KiCad 5.0 runs on.
 The step files and models of the casing were designed publicly using the
 parametric modelling tool, OnShape. FreeCAD was originally considered, but
 unfortunately it's been too unstable for the author to use thus far.
+
+You can get to the RetroPad Shell
+project
+[in OnShape here](https://cad.onshape.com/documents/0ce2d4035447341de67353ed/w/eda42658079851fc0d119e48/e/4d807dce885e1d6fdc5af67c).
 
 Search for "RetroPad" in the public models archive and you can get the source
 models straight from there. For folks preferring to use a different modelling
