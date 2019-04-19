@@ -11,6 +11,17 @@ This is an open source Commodore compatible gamepad similar in design to a
 Genesis or NES gamepad, but designed specifically for the Commodore and Atari
 8-bit machines prior to the Amigas.
 
+This project is part of the [Nybbles and Bytes Commodore 128D programming
+series](http://youtube.com/nybblesandbytes).
+
+## Why make this?
+
+The author needed a joystick for her YouTube project, [Nybbles and
+Bytes](http://youtube.com/nybblesandbytes) and felt that joysticks were too
+imprecise, troublesome, and wanted something more accessible. Gamepads fit the
+bill, but Master System and Genesis controllers used the wrong electricals and
+could cause damage to her systems.
+
 ## Which computers is this compatible with?
 
 The author has tested the initial prototype with a Commodore 128D, but
