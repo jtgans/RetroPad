@@ -28,9 +28,15 @@ means it should theoretically work on the following machines:
 ## How was this made?
 
 The schematics were put together using KiCad 5.0 on a Mac. This should be
-cross-compatible with any other platform KiCad 5.0 runs on.
+cross-compatible with any other platform KiCad 5.0 runs on. The author used the
+[DigiKey KiCad Libraries](https://github.com/Digi-Key/digikey-kicad-library) to
+simplify footprint and symbol selection, so you'll want to download those and
+set them up globally. They were not included in this project repository as
+project-specific since that would effectively constitute a fork or
+redistribution which would then require their licensing. Plus, the project
+wouldn't get any updated footprints.
 
-The step files and models of the casing were designed publicly using the
+The STL files and models of the casing were designed publicly using the
 parametric modelling tool, OnShape. FreeCAD was originally considered, but
 unfortunately it's been too unstable for the author to use thus far.
 
