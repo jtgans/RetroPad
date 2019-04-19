@@ -55,9 +55,8 @@ The author prefers to use OSHPark as the PCB fab house of choice, though with
 some finagling you could easily adapt to other providers such as PCBWay or
 others.
 
-The original PCB is available [here](oshpark)
-
-[oshpark]: 
+The original PCB is
+available [on oshpark here](https://oshpark.com/shared_projects/s0IiW6GJ).
 
 ## How should I fab the case?
 
