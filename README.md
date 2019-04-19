@@ -40,8 +40,11 @@ project
 
 Search for "RetroPad" in the public models archive and you can get the source
 models straight from there. For folks preferring to use a different modelling
-program, the step files are also available with the schematics in this
-repository.
+program, the STL files are also available with the schematics in this
+repository under
+the [case/ directory](https://github.com/jtgans/RetroPad/tree/master/case).
+
+The "RetroPad.step" file is actually just the 3D rendering of the PCBA.
 
 ## Where is the BOM?
 
