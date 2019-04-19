@@ -62,7 +62,7 @@ some finagling you could easily adapt to other providers such as PCBWay or
 others.
 
 The original PCB is
-available [on oshpark here](https://oshpark.com/shared_projects/s0IiW6GJ).
+available [on oshpark here](https://oshpark.com/shared_projects/sBXUpwLt).
 
 ## How should I fab the case?
 
