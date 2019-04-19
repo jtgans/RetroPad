@@ -40,14 +40,15 @@ The BOM is very very simple at the moment, basically only using Omron B3F-1000
 tactile switches straight from Digikey. Any 8mm pitch tactile switch with a
 similar profile to the B3F-1000 should work.
 
-The author actually clipped out the 9-pin cable and connector from a donor
-Genesis controller as the connecting wiring to the computer. This is, in
-retrospect, an unwise choice since the copper wiring in those cables includes
-nylon filament which makes soldering extremely difficult. Any 9-core cable and a
-standard 9-pin female D-sub connector will do, however.
+The connection to the computer is made using a 9-pin D-Sub connector. Any
+straight-through female to female 9-pin serial cable should work, supposing the
+housing allows for it.
 
-Assembly is super easy since it's all through hole parts. In the future, the
-author will be adding cabling and connectors to the BOM to ease assembly.
+Assembly is super easy since it's all through hole parts and two very large 0608
+SMD resistors.
+
+The generated BOM is available in the CSV file in this repository, but an actual
+BOM ordered by the author is available in the digikey.csv file.
 
 ## How should I fab the PCB?
 
@@ -56,7 +57,7 @@ some finagling you could easily adapt to other providers such as PCBWay or
 others.
 
 The original PCB is
-available [on oshpark here](https://oshpark.com/shared_projects/s0IiW6GJ).
+available [on oshpark here]().
 
 ## How should I fab the case?
 
