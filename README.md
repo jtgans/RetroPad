@@ -1,4 +1,4 @@
-# RetroPad v1.1
+# RetroPad v2.0
 
 ![RetroPad Mechanical Model](https://github.com/jtgans/RetroPad/raw/master/assets/retropad.png)
 
