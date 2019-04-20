@@ -3,7 +3,7 @@
 NOTE: RetroPad v2.0 IS NOT VERIFIED YET! DON'T FAB UNLESS YOU'RE WILLING TO
 REWORK!
 
-![RetroPad Mechanical Model](https://github.com/jtgans/RetroPad/raw/master/assets/retropad.png)
+![RetroPad Mechanical Model](https://github.com/jtgans/RetroPad/raw/next-gen/assets/retropad.png)
 
 ## What is this?
 
