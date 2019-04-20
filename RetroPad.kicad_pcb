@@ -174,6 +174,11 @@
       (net 1 /GND))
     (pad 10 thru_hole circle (at -12.495 0) (size 3.5 3.5) (drill 3.17) (layers *.Cu *.Mask)
       (net 1 /GND))
+    (model ${KIPRJMOD}/c-5747840-3-d-3d.stp
+      (offset (xyz 0 15.5 5.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer F.Cu) (tedit 5B36C52B) (tstamp 5CD22772)
