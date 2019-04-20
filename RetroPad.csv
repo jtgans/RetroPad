@@ -1,7 +1,3 @@
-"Source:","/Users/jtgans/Projects/RetroPad/RetroPad.sch"
-"Date:","Friday, April 19, 2019 at 12:51:19 AM"
-"Tool:","Eeschema (5.0.1-3-g963ef8bb5)"
-"Component Count:","11"
 "Ref","Value","Footprint","Datasheet","Manufacturer","Vendor"
 "J1","5747840-3","digikey-footprints:DSUB-9_Jack_5747840-3","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5747840&DocType=Customer+Drawing&DocLang=English","TE Connectivity AMP Connectors",""
 "R1","330","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","",""
